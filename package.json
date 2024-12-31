@@ -1,0 +1,10 @@
+{
+  "name": "string-calculator",
+  "private": true,
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
